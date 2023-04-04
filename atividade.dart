@@ -1,6 +1,6 @@
 void main() {
-  double nota1 = 7.5;
-  double nota2 = 6.5;
+  double nota1 = 8.0;
+  double nota2 = 8.0;
   double nota3 = 7.0;
   double nota4 = 7.0;
 
@@ -16,5 +16,5 @@ void main() {
   else {
     print("Você ficou de exame");
   }
-  
+
   }
